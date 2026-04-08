@@ -5,8 +5,15 @@ import { FaBootstrap } from "react-icons/fa";
 import { SiJavascript } from "react-icons/si";
 import { FaCss3Alt } from "react-icons/fa6";
 import { SiMongodb } from "react-icons/si";
+import { FaNodeJs } from "react-icons/fa6";
+import { SiMysql } from "react-icons/si";
+import { SiShadcnui } from "react-icons/si";
+import { SiFirebase } from "react-icons/si";
 import { motion } from "motion/react";
+import { FaPython } from "react-icons/fa6";
 import { animate, inView } from "motion";
+import { FaGithub } from "react-icons/fa";
+
 
 const iconVariants = (duration)=>({
   initial: {y:-10},
@@ -61,6 +68,36 @@ const Technologies = () => {
         initial="initial"
         animate="animate" className="rounded-2xl border-4 border-neutral-800 gap-4">
             <SiMongodb className="text-7xl text-green-500"/>
+        </motion.div>
+        <motion.div variants={iconVariants(4)}
+        initial="initial"
+        animate="animate" className="rounded-2xl border-4 border-neutral-800 gap-4">
+            <FaNodeJs className="text-7xl text-green-500"/>
+        </motion.div>
+        <motion.div variants={iconVariants(5)}
+        initial="initial"
+        animate="animate" className="rounded-2xl border-4 border-neutral-800 gap-4">
+            <SiShadcnui className="text-7xl text-green-500"/>
+        </motion.div>
+        <motion.div variants={iconVariants(2)}
+        initial="initial"
+        animate="animate" className="rounded-2xl border-4 border-neutral-800 gap-4">
+            <SiFirebase className="text-7xl text-orange-500"/>
+        </motion.div>
+        <motion.div variants={iconVariants(6)}
+        initial="initial"
+        animate="animate" className="rounded-2xl border-4 border-neutral-800 gap-4">
+            <FaPython className="text-7xl text-yellow-500"/>
+        </motion.div>
+        <motion.div variants={iconVariants(4)}
+        initial="initial"
+        animate="animate" className="rounded-2xl border-4 border-neutral-800 gap-4">
+            <SiMysql className="text-7xl text-yellow-500"/>
+        </motion.div>
+        <motion.div variants={iconVariants(5)}
+        initial="initial"
+        animate="animate" className="rounded-2xl border-4 border-neutral-800 gap-4">
+            <FaGithub className="text-7xl text-white"/>
         </motion.div>
 
         

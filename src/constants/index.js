@@ -5,13 +5,22 @@ import udacityomkar from "../assets/udacityomkar.jpg";
 
 
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Hi, I’m Omkar 👋
+A passionate Full-Stack Developer
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+I build modern, responsive, and user-friendly web applications using React, Node.js, and Tailwind CSS. I enjoy turning ideas into real-world products and continuously learning new technologies.
+
+Currently exploring AI integration and enhancing my skills in Python.
+`;
+
+export const ABOUT_TEXT = `I am a final-year B.Tech student majoring in Computer Science and Engineering at Vellore Institute of Technology, Bhopal. My passion for technology and coding has been a key driver of my academic journey.
+I have a strong foundation in frontend development, with proficiency in HTML, CSS, JavaScript, React.js, Tailwind CSS, Framer Motion, and Shadcn UI. I am also familiar with backend development using Node.js. Currently, I am exploring AI integration concepts and have advanced proficiency in Python.
+
+Beyond academics, I am an all-round sports enthusiast with a keen interest in basketball, football, cricket, and chess. I am eager to continue learning, building impactful projects, and growing both professionally and personally.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023",
+    year: "2024",
     picture: udacityomkar,
     role: "Next Gen Tech Booster Scholarship",
     company: "Udacity, sponsored by Bertelsmann.",
@@ -23,25 +32,28 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "AuraTravel",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+  "An AI-powered travel planner that generates personalized trips and itineraries. Helps users plan destinations, schedules, and experiences seamlessly.",
+    technologies:  ["React", "Firebase","Gemini API", "Tailwind CSS", "Shadcn UI", ],
+    link: "https://github.com/omkarg04/AuraTravel",
   },
   {
-    title: "Task Management App",
+    title: "Uplift - AI Emotional Health Companion",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "AI–powered emotional support application that interacts with users and provides supportive responses based on their emotional state",
+    technologies: [ "React.js", "AWS PartyRock", "Generative AI", "Prompt Engineering"],
+    link :"https://partyrock.aws/u/iomkar04/u7zZylGVQ/Uplift:-Your-Emotional-Companion",
   },
   {
-    title: "Portfolio Website",
+    title: "Stress Monitoring System",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Tailwindcss"],
+      " A real-time health monitoring system that collects physiological data including heart rate, SpO2, and body temperature using IoT sensors.",
+    technologies: [ "React","Javascript" ,"Tailwindcss" ,"ESP32", "MAX30102", "DS18B20"],
+    link: "https://github.com/omkarg04/Stress-Care-Frontend",
   },
   
 ];
