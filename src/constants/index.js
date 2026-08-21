@@ -1,4 +1,4 @@
-import auratravel from "../assets/auratravel.jpg";
+import auratravel from "../assets/auratravel.png";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import udacityomkar from "../assets/udacityomkar.jpg";
