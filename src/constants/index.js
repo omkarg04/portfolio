@@ -28,6 +28,14 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    title: "Tarvis",
+    image: tarvis,
+    description:
+      "An offline AI voice dictation tool that runs Faster-Whisper locally, enabling hotkey-triggered transcription and auto-typing into any desktop app with zero cloud dependency. Built with two independent audio-capture pipelines — browser-based and OS-level — bridged through async communication, plus a 6-stage NLP pipeline for ASR correction, filler-word removal, and real-time status updates over WebSocket.",
+    technologies: ["Python", "FastAPI", "React (Vite)", "Faster-Whisper", "WebSocket"],
+    link: "https://github.com/omkarg04/Tarvis",
+  },
+  {
     title: "AuraTravel",
     image: project1,
     description:
