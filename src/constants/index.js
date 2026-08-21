@@ -1,6 +1,6 @@
 import auratravel from "../assets/auratravel.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
+import uplift from "../assets/uplift.jpg";
+import stress_care from "../assets/stress_care.jpg";
 import udacityomkar from "../assets/udacityomkar.jpg";
 import tarvis from "../assets/tarvis.jpg";
 
@@ -38,7 +38,7 @@ export const PROJECTS = [
   },
   {
     title: "AuraTravel",
-    image: project1,
+    image: auratravel,
     description:
   "An AI-powered travel planner that generates personalized trips and itineraries. Helps users plan destinations, schedules, and experiences seamlessly.",
     technologies:  ["React", "Firebase","Gemini API", "Tailwind CSS", "Shadcn UI", ],
@@ -46,7 +46,7 @@ export const PROJECTS = [
   },
   {
     title: "Uplift - AI Emotional Health Companion",
-    image: project2,
+    image: uplift,
     description:
       "AI–powered emotional support application that interacts with users and provides supportive responses based on their emotional state",
     technologies: [ "React.js", "AWS PartyRock", "Generative AI", "Prompt Engineering"],
@@ -54,7 +54,7 @@ export const PROJECTS = [
   },
   {
     title: "Stress Monitoring System",
-    image: project3,
+    image: stress_care,
     description:
       " A real-time health monitoring system that collects physiological data including heart rate, SpO2, and body temperature using IoT sensors.",
     technologies: [ "React","Javascript" ,"Tailwindcss" ,"ESP32", "MAX30102", "DS18B20"],
