@@ -7,14 +7,12 @@ import udacityomkar from "../assets/udacityomkar.jpg";
 export const HERO_CONTENT = `Hi, I am Omkar 
 A Computer Science undergraduate specializing in Applied AI Engineering
 I build full-stack, LLM-powered applications using Python, React, and FastAPI — integrating generative AI APIs like Gemini into production-style workflows. I design REST and WebSocket APIs and ship end-to-end AI products spanning backend architecture, NLP pipelines, and frontend interfaces.
-Currently working as a Frontend Developer, shipping UI for live web applications.
+Currently seeking internship and full-time opportunities to build impactful, real-world AI products.
 `;
 
-export const ABOUT_TEXT = `I am a final-year B.Tech student majoring in Computer Science and Engineering at Vellore Institute of Technology, graduating in July 2026 with a CGPA of 8.34/10.
-I specialize in Applied AI Engineering — building full-stack, LLM-powered applications with Python, React.js, and FastAPI, and integrating generative AI APIs like Gemini into real, production-style workflows. My work spans NLP pipelines, speech recognition (ASR), REST and WebSocket API design, and responsive frontend interfaces built with Tailwind CSS, Framer Motion, and shadcn/ui.
-I recently worked as a Frontend Developer Intern at TechBird IT Services, where I built the frontend for a Travel Expense Management Module in React.js, handling expense submission, tracking, and multi-stage approval flows while integrating with backend REST APIs.
-Beyond code, I've solved 450+ DSA problems on LeetCode (top 15% globally) and was selected among the top 1% of applicants for Udacity's AI Programming with Python Nanodegree. I'm an all-round sports enthusiast with a keen interest in basketball, football, cricket, and chess, and I'm always looking to build impactful projects while growing both professionally and personally.`;
-
+export const ABOUT_TEXT = `Hey, I'm Omkar — a final-year Computer Science student at VIT, graduating in July 2026. I love building things end-to-end, from clean, intuitive frontends to the AI and backend logic that powers them. Lately I've been deep into generative AI and LLM-powered apps, but at heart I just enjoy solving real problems and shipping stuff people can actually use.
+I recently interned as a Frontend Developer at TechBird IT Services, where I got to work on a real product used by real people — which taught me a lot about writing code that plays well with a team, not just code that works.
+Outside of coding, I'm big into sports — basketball, football, cricket, and the occasional game of chess. I also spend a fair bit of time on LeetCode, chasing that satisfying feeling of cracking a tough problem. I'm currently looking for internship and full-time opportunities where I can keep learning, keep building, and grow both as an engineer and as a person.`;
 
 export const EXPERIENCES = [
   {
