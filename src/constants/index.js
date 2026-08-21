@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import udacityomkar from "../assets/udacityomkar.jpg";
+import tarvis from "../assets/tarvis.jpg";
 
 
 export const HERO_CONTENT = `Hi, I am Omkar 
