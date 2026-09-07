@@ -23,7 +23,7 @@
 
 This is my personal developer portfolio — a single source of truth for who I am as a developer, what I've built, and what I'm capable of. It's designed to give recruiters and collaborators a fast, visual way to evaluate my work, without digging through a resume PDF.
 
-I'm a Computer Science graduate actively interviewing for **Full-Stack** and **AI/GenAI Developer** roles, with hands-on experience shipping AI-integrated web apps and IoT-connected systems.
+I'm a Computer Science graduate actively interviewing for **Full-Stack** and **AI/GenAI Developer** roles. I'm currently working as a Python Developer Intern at DevToDesk, building backend systems with FastAPI, SQLAlchemy, and PostgreSQL, and I have hands-on experience shipping AI-integrated web apps and IoT-connected systems.
 
 ## 🧠 What's Showcased
 
@@ -38,8 +38,8 @@ I'm a Computer Science graduate actively interviewing for **Full-Stack** and **A
 
 ### Featured Projects Highlighted on the Site
 
-- **[AuraTravel](https://github.com/omkarg04/AuraTravel)** — AI-powered travel planner generating personalized itineraries using the Gemini API, React, Firebase, and Shadcn UI
-- **[Uplift — AI Emotional Health Companion](https://partyrock.aws/u/iomkar04/u7zZylGVQ/Uplift%253A-Your-Emotional-Companion)** — Generative AI chatbot built on AWS PartyRock offering empathetic, supportive conversation
+- **[AuraTravel](https://github.com/omkarg04/AuraTravel)** — AI-powered travel planner generating personalized itineraries across 5+ trip parameters using the Gemini API, React, Firebase, and Shadcn UI
+- **[Tarvis](https://github.com/omkarg04)** — Offline, privacy-first voice-to-text desktop assistant running Faster-Whisper locally, with hotkey-triggered transcription, a 6-stage NLP post-processing pipeline, and real-time status updates over WebSocket
 - **[Stress Monitoring System](https://github.com/omkarg04/Stress-Care-Frontend)** — Real-time IoT health monitoring dashboard tracking heart rate, SpO2, and body temperature via ESP32, MAX30102, and DS18B20 sensors
 
 ## ✨ Site Features
