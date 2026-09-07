@@ -2,7 +2,7 @@
 
 # 👋 Omkar Gaikwad — Developer Portfolio
 
-**Full-Stack & AI/GenAI Developer** | Final-Year B.Tech CSE @ VIT
+**Full-Stack & AI/GenAI Developer** | B.Tech CSE Graduate @ VIT
 
 [![Live Site](https://img.shields.io/badge/🔗_Live_Site-portfolio--ashen--phi--66.vercel.app-8B5CF6?style=for-the-badge)](https://portfolio-ashen-phi-66.vercel.app)
 
@@ -23,7 +23,7 @@
 
 This is my personal developer portfolio — a single source of truth for who I am as a developer, what I've built, and what I'm capable of. It's designed to give recruiters and collaborators a fast, visual way to evaluate my work, without digging through a resume PDF.
 
-I'm a final-year Computer Science student actively interviewing for **Full-Stack** and **AI/GenAI Developer** roles, with hands-on experience shipping AI-integrated web apps and IoT-connected systems.
+I'm a Computer Science graduate actively interviewing for **Full-Stack** and **AI/GenAI Developer** roles, with hands-on experience shipping AI-integrated web apps and IoT-connected systems.
 
 ## 🧠 What's Showcased
 
