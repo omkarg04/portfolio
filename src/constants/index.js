@@ -6,15 +6,14 @@ import tarvis from "../assets/tarvis.jpg";
 
 
 export const HERO_CONTENT = `Hi, I am Omkar 
-A Computer Science undergraduate specializing in Applied AI Engineering
+A Computer Science graduate with a strong interest in AI Engineering
 I build full-stack, LLM-powered applications using Python, React, and FastAPI — integrating generative AI APIs like Gemini into production-style workflows. I design REST and WebSocket APIs and ship end-to-end AI products spanning backend architecture, NLP pipelines, and frontend interfaces.
-Currently seeking internship and full-time opportunities to build impactful, real-world AI products.
+Currently seeking full-time opportunities to build impactful, real-world AI products.
 `;
 
-export const ABOUT_TEXT = `Hey, I'm Omkar — a final-year Computer Science student at VIT, graduating in July 2026. I love building things end-to-end, from clean, intuitive frontends to the AI and backend logic that powers them. Lately I've been deep into generative AI and LLM-powered apps, but at heart I just enjoy solving real problems and shipping stuff people can actually use.
+export const ABOUT_TEXT = `Hey, I'm Omkar — a Computer Science graduate from VIT, class of 2026. I love building things end-to-end, from clean, intuitive frontends to the AI and backend logic that powers them. Lately I've been deep into generative AI and LLM-powered apps, but at heart I just enjoy solving real problems and shipping stuff people can actually use.
 I recently interned as a Frontend Developer at TechBird IT Services, where I got to work on a real product used by real people — which taught me a lot about writing code that plays well with a team, not just code that works.
-Outside of coding, I'm big into sports — basketball, football, cricket, and the occasional game of chess. I also spend a fair bit of time on LeetCode, chasing that satisfying feeling of cracking a tough problem. I'm currently looking for internship and full-time opportunities where I can keep learning, keep building, and grow both as an engineer and as a person.`;
-
+Outside of coding, I'm big into sports — basketball, football, cricket, and the occasional game of chess. I also spend a fair bit of time on LeetCode, chasing that satisfying feeling of cracking a tough problem. I'm currently looking for full-time opportunities where I can keep learning, keep building, and grow both as an engineer and as a person.`;
 export const EXPERIENCES = [
   {
     year: "2024",
