@@ -25,7 +25,17 @@ export const EXPERIENCES = [
   },
 
 ];
-
+export const WORK_EXPERIENCES = [
+  {
+    year: "2026",
+    picture: udacityomkar, 
+    role: "Python Developer Intern",
+    company: "DevtoDesk",
+    description:
+     ` Worked as a Python Developer Intern at DevToDesk, developing an Invoice Management Portal using FastAPI, SQLAlchemy, and Supabase PostgreSQL.
+Built transactional backend APIs, server-side invoice calculations, DTO-based data handling, and centralized API error handling.`,
+  },
+];
 export const PROJECTS = [
   {
     title: "Tarvis",
